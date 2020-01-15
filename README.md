@@ -5,9 +5,9 @@ Code for the paper "Low rank tensor train coefficent array estimation for tensor
 
 The algorithms have been implemented in MATLAB and make extensive use of:
 
-MATLAB Tensor Toolbox 2.5
+MATLAB Tensor Toolbox 2.6 (http://www.sandia.gov/~tgkolda/TensorToolbox/)
 
-Tensor train toolbox
+TT-Toolbox (TT=Tensor Train) Version 2.2 (http://spring.inm.ras.ru/osel)
 
 
 ## Contents
